@@ -1,5 +1,5 @@
 # hello-world
-A start on GitHub
+A start on Web
 
 Make and commit changes
 
